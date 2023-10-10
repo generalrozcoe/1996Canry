@@ -1,3 +1,9 @@
+//Arduino project file for esp32 controlled taillights. 
+//Features to be coded
+//Running lamp, Reverse Lamps, Sound visualizer
+
+
+
 #include <FastLED.h>
 const int LED_PIN = 17;
 const int brakePin = 5;
